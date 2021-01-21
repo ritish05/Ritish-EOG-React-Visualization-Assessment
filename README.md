@@ -1,2 +1,5 @@
-# Ritish-EOG-React-Visualization-Assessment
-EOG React Visualization Assessment (select dropdown)
+## Create React App Visualization
+
+This assessment was bespoke handcrafted for rkolan.
+
+Read more about this assessment [here](https://react.eogresources.com)
