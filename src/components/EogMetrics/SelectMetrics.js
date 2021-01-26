@@ -105,7 +105,7 @@ const SelectMetrics = () => {
   return (
     <div className={classes.root}>
       <FormControl className={classes.formControl}>
-      <InputLabel htmlor="metric-select">Select...</InputLabel>
+      <InputLabel html="metric-select">Select...</InputLabel>
         <Select
           multiple
           value={metricNames}
